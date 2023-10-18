@@ -1,65 +1,45 @@
 {
   "project_info": {
-    "project_number": "727830725517",
-    "project_id": "todolist-10ef1",
-    "storage_bucket": "todolist-10ef1.appspot.com"
+    "project_number": "545261515901",
+    "project_id": "todo-app-55daf",
+    "storage_bucket": "todo-app-55daf.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:727830725517:android:e1aba9d6fc5baaad9b33c4",
+        "mobilesdk_app_id": "1:545261515901:android:f9545df280fe3194c32d14",
         "android_client_info": {
-          "package_name": "com.example.flutter_to_do_list"
+          "package_name": "com.itsofthub.todo"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "727830725517-m312sdhm37vu2fojhk13go7cl0r215ok.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCRm_zOokLV-Nb_5zpJnjAuJlD93gA5e3o"
+          "current_key": "AIzaSyATOXOLuGZSF5uNwBxa1tfB_cZQ8fXgyCs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "727830725517-m312sdhm37vu2fojhk13go7cl0r215ok.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:727830725517:android:cb99236c157d93349b33c4",
+        "mobilesdk_app_id": "1:545261515901:android:471097901f160db1c32d14",
         "android_client_info": {
-          "package_name": "com.example.todolistwithfirestor"
+          "package_name": "com.itsothub.com"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "727830725517-m312sdhm37vu2fojhk13go7cl0r215ok.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCRm_zOokLV-Nb_5zpJnjAuJlD93gA5e3o"
+          "current_key": "AIzaSyATOXOLuGZSF5uNwBxa1tfB_cZQ8fXgyCs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "727830725517-m312sdhm37vu2fojhk13go7cl0r215ok.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
